@@ -1,0 +1,33 @@
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+    background-color: darksalmon;
+}
+.header_div{
+background-color:deepskyblue;
+color: indigo;
+}
+.header_div p{
+    font-family: 'Italianno', cursive;
+    color: rgb(126, 56, 7);
+    letter-spacing: 2px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Pacifico', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: whitesmoke;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkslateblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px cornsilk;
+}
